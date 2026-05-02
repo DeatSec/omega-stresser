@@ -18,7 +18,7 @@
 ```bash
 pkg update && pkg upgrade
 pkg install python git -y
-git clone https://github.com/username/omega-stresser.git
+git clone https://github.com/DeatSec/omega-stresser.git
 cd omega-stresser
 pip install -r requirements.txt
 python stresser.py
