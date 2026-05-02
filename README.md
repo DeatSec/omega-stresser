@@ -1,6 +1,6 @@
 # 🔥 OMEGA WEB STRESSER 🔥
 
-**By: DeathNex**
+**By: 𝙳𝚎𝚊𝚝Nex**
 
 ⚠️ **PENTING: Gunakan hanya untuk testing server sendiri atau dengan izin tertulis!**
 
